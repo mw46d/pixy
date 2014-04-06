@@ -1,0 +1,6 @@
+*.o
+host/pixymon/Makefile
+host/pixymon/PixyMon
+host/pixymon/moc_*.cpp
+host/pixymon/qrc_*.cpp
+host/pixymon/ui_*.h
